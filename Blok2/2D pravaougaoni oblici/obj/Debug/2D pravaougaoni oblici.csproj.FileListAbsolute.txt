@@ -1,0 +1,9 @@
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\bin\Debug\2D pravaougaoni oblici.exe.config
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\bin\Debug\2D pravaougaoni oblici.exe
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\bin\Debug\2D pravaougaoni oblici.pdb
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\2D pravaougaoni oblici.csprojAssemblyReference.cache
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\_2D_pravaougaoni_oblici.frmRadnaPovrsina.resources
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\_2D_pravaougaoni_oblici.Properties.Resources.resources
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\2D pravaougaoni oblici.csproj.GenerateResource.cache
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\2D pravaougaoni oblici.exe
+D:\Programiranje C#\Blok\Blok Projekat\2D pravaougaoni oblici\obj\Debug\2D pravaougaoni oblici.pdb
